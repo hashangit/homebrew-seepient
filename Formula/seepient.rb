@@ -9,7 +9,7 @@ class Seepient < Formula
   sha256 "ec7ed33be610b1e59022c7b3ba9b0289efe95dc92800c0bc140454ea2d0fd5b5"
   license "BUSL-1.1"
 
-  depends_on "node@20"
+  depends_on "node@22"
 
   def install
     system "npm", "install", *std_npm_args
