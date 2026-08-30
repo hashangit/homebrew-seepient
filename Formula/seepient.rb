@@ -5,8 +5,8 @@
 class Seepient < Formula
   desc "Seepient Agent — your AI person. A skill-driven AI agent (CLI, SDK, server)"
   homepage "https://github.com/hashangit/seepient"
-  url "https://registry.npmjs.org/seepient/-/seepient-0.5.6.tgz"
-  sha256 "3aedc04a8dc0fa88d252c1bc1d26d1023b89cd9dd49f3ac5d46a48b1301a45bc"
+  url "https://registry.npmjs.org/seepient/-/seepient-0.5.7.tgz"
+  sha256 "97eb2a2f96a88d1ac7d381734cc9131e4dc9a62ce2eaaaabf96095c9fdc6432f"
   license "BUSL-1.1"
 
   depends_on "node@22"
